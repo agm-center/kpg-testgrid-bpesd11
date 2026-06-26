@@ -1,0 +1,8 @@
+﻿project_id,source,name_kor,name_eng,effective_year,effective_month,action,voltage_level,fbus,tbus,status,Pf,Pt,Qf,Qt,Vf,Vt,Pmin,Pmax,QminF,QmaxF,QminT,QmaxT,loss0,loss1
+11th_basic_plan,government,,,2023,6,add,500 (DC),51,53,1,0,0,0,0,1,1,-1500,1500,0,0,0,0,0,0
+11th_basic_plan,government,,,2026,10,add,500 (DC),28,82,1,0,0,0,0,1,1,-1500,1500,0,0,0,0,0,0
+11th_basic_plan,government,,,2027,12,add,500 (DC),22,82,1,0,0,0,0,1,1,-1500,1500,0,0,0,0,0,0
+11th_basic_plan,government,,,2031,12,add,500 (DC),47,108,1,0,0,0,0,1,1,-1500,1500,0,0,0,0,0,0
+11th_basic_plan,government,,,2036,12,add,500 (DC),53,143,1,0,0,0,0,1,1,-1500,1500,0,0,0,0,0,0
+11th_basic_plan,government,,,2038,12,add,500 (DC),34,143,1,0,0,0,0,1,1,-1500,1500,0,0,0,0,0,0
+11th_basic_plan,government,,,2038,12,add,500 (DC),27,108,1,0,0,0,0,1,1,-1500,1500,0,0,0,0,0,0
