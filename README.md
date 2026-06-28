@@ -10,7 +10,7 @@
 
 ## What is KPG 193 BPESD-11?
 
-KPG 193 BPESD-11 extends the [KPG 193 test system](https://github.com/EGO-lab-Kentech/kpg-testgrid) with Korean transmission grid scenarios from 2022 to 2038 based on Korea's 11th Basic Plan for Long-Term Electricity Supply and Demand (BPESD-11, 11차 전력수급기본계획). It provides yearly MATPOWER-compatible network snapshots, hourly time-series profiles, renewable capacity data, and expansion metadata.
+KPG 193 BPESD-11 extends the [KPG 193 test system](https://github.com/agm-center/kpg-testgrid) with Korean transmission grid scenarios from 2022 to 2038 based on Korea's 11th Basic Plan for Long-Term Electricity Supply and Demand (BPESD-11, 11차 전력수급기본계획). It provides yearly MATPOWER-compatible network snapshots, hourly time-series profiles, renewable capacity data, and expansion metadata.
 
 The dataset reflects planned generation and transmission changes under Korea's **11th Basic Plan for Long-Term Electricity Supply and Demand (BPESD-11)**. Across the planning horizon, it includes 61 generator additions, 49 generator retirement records, 207 AC branch additions, and 7 DC line additions.
 
@@ -44,7 +44,7 @@ This dataset is part of the KPG Test System module within the KPG (Korean Powe
 Each scenario year is stored as a separate folder, such as `kpg193_v2_0_2038`. Use sparse checkout to download only the year folders you need.
 
 ```bash
-git clone --filter=blob:none --sparse https://github.com/EGO-lab-Kentech/kpg-testgrid-bpesd11.git
+git clone --filter=blob:none --sparse https://github.com/agm-center/kpg-testgrid-bpesd11.git
 cd kpg-testgrid-bpesd11
 git sparse-checkout set kpg193_v2_0_2022 kpg193_v2_0_2030 kpg193_v2_0_2038
 ```
