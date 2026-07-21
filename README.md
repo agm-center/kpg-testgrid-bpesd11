@@ -18,9 +18,9 @@ This dataset is part of the KPG Test System module within the KPG (Korean Powe
 
 | Module | Description |
 |--------|-------------|
-| [**KPG Test System**](https://agm.kentech.ac.kr/documentation/kpg-test-system/) (this repo) | Synthetic grid data — network, generators, demand, renewable, and commitment profiles |
-| [**KPG Run**](https://agm.kentech.ac.kr/documentation/kpg-run/user-interface/) | Desktop application for solving ED, UC, DC-OPF, and AC-OPF problems |
-| [**KPG View**](https://agm.kentech.ac.kr/documentation/kpg-view/overview/) | Interactive map-based visualization of grid networks and simulation results |
+| [**KPG Test System**](https://agm.kentech.ac.kr/docs/kpg-test-system/) (this repo) | Synthetic grid data — network, generators, demand, renewable, and commitment profiles |
+| [**KPG Run**](https://agm.kentech.ac.kr/docs/kpg-run/user-interface/) | Desktop application for solving ED, UC, DC-OPF, and AC-OPF problems |
+| [**KPG View**](https://agm.kentech.ac.kr/docs/kpg-view/overview/) | Interactive map-based visualization of grid networks and simulation results |
 
 
 ## Dataset Overview
