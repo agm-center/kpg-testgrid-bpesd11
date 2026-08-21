@@ -53,7 +53,7 @@ git sparse-checkout set kpg193_v2_0_2024 kpg193_v2_0_2030 kpg193_v2_0_2038
 ## Structure
 
 ```
-kpg193_v2_0_{year}/                 (year: 2022–2038)
+kpg193_v2_0_{year}/                 (year: 2024–2038)
 ├── kpg193_ver2_0_{year}.png         # Network visualization
 ├── network/
 │   ├── m/KPG193_ver2_0_{year}.m      # MATPOWER case file
