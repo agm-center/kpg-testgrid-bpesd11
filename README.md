@@ -4,7 +4,7 @@
 ![Version: v2.0](https://img.shields.io/badge/Version-v2.0-green.svg)
 ![Status: Active](https://img.shields.io/badge/Status-Active-brightgreen.svg)
 
-![KPG 193 BPESD-11 network evolution from 2022 to 2038](kpg193_ver2_0_2022_2038_1s_w1600.gif)
+![KPG 193 BPESD-11 network evolution from 2024 to 2038](kpg193_ver2_0_2024_2038_1s_w1600.gif)
 *Network evolution of the KPG 193 BPESD-11 test system from 2024 to 2038.*
 
 
